@@ -1,0 +1,47 @@
+---
+title: "Karen M. Alexander"
+author: "Karen Alexander"
+date: "10/26/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Who Am I?
+
+## Biography
+
+- Born November 24, 1965 in Denver, CO
+- Lived in CO, WA, ID, and ND as a child
+- Ph.D. Candidate in Educational Psychology, Quantitative, Qualitative, and Psychometric Methods
+- Expected to Graduate May 2022
+
+# Favorite Animal
+
+<https://images.app.goo.gl/DJaHcV8nbgYMEdDP7>
+
+# Favorite Plot
+```{r}
+if (!"palmerpenguins" %in% installed.packages()) {
+  remotes::install_github("allisonhorst/palmerpenguins")
+}
+library(palmerpenguins)
+library(ggplot2)
+library(tidyverse)
+head(penguins)
+ggplot(penguins, aes(x = body_mass_g, y = bill_length_mm, color = species)) + 
+  geom_point()
+```
+
+```{r}
+ggplot(penguins, aes(x = body_mass_g, y = bill_length_mm, color = species)) +
+  geom_violin(scale = "area") +
+  ggtitle("Penguins Play the Violin")
+```
+
+# My CV
+
+
+
