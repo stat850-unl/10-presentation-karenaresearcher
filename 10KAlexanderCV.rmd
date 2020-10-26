@@ -1,0 +1,221 @@
+---
+title: "Karen M. Alexander's Resume"
+author: Kaen M. Alexander
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> kalexander@huskers.unl.edu
+- <i class="fa fa-github"></i> [linked.com/karenalexander](https://www.linkedin.com/in/alexander-karen-60121317/)
+- <i class="fa fa-phone"></i> +1 703-881-2766
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- SPSS, SAS, MPlus, R
+
+- Mixed methods
+
+- eleot® – Trained and Certified
+
+- National Teacher Examinations – Passing scores in Communication Skills, General Knowledge, Professional Knowledge, and Mathematics
+
+ - Certification in Teaching ESL through The Center for Applied Linguistics
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Karen M. Alexander {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Nebraska-Lincoln Lincoln, NE
+
+Ph. D. Candidate Educational Psychology Quantitative, Qualitative, and Psychometric Methods
+    
+### Covenant College Lookout Mountain, GA
+    
+M.A. Educational Leadership
+
+2006
+    
+### University of North Dakota Grand Forks, ND
+
+B.S.Ed. Middle School Education, Concentrations in Mathematics and Music 
+
+Cum Laude
+
+1988
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+University of Nebraska - Lincoln 
+
+Lincoln, NE
+
+Buros Center for Testing
+     
+June 2019 -- Present
+
+- Conduct research on a variety of topics related to history of testing
+- Analyze data of specific tests for readability and possible issues of bias
+- Edit documents for publication
+
+### Graduate Teaching Assistant
+
+University of Nebraska - Lincoln 
+
+Lincoln, NE
+
+Aug. 2017 -- June 2019
+
+- Teach two sections of EDPS 459 Statistics for Behavioral Sciences/semester
+- Create syllabus, lesson plans, materials, assessments, and teach course
+- Work with other teachers and tenured professor as a team
+- Integrate statistical software into the course (SPSS and R)
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Upper School Principal
+
+Trinity Christian School
+
+Fairfax, VA
+
+June 2013 -- June 2017
+     
+- Responsible for school programs with over 60 faculty and over 300 students
+- Implemented a continuous improvement plan that school continues to use, with decisions being driven by data
+- Led school through accreditation review process which resulted in re-accreditation
+- Implemented 1 to 1 technology program for students in grades 7 – 12
+- Interviewed, hired, and evaluated faculty and staff
+- Created, implemented, and evaluated faculty evaluation tool, annual parent survey, and annual student survey
+- Oversaw standardized testing
+- Managed budgets for curriculum and activities
+
+### Middle School Principal
+
+Trinity Christian School
+
+Fairfax, VA
+
+June 2006 - June 2013
+
+- Responsible for school programs with over 25 faculty and over 200 students
+- Led analysis and restructuring of science and English curriculum
+- Interviewed, hired, and evaluated faculty and staff
+- Oversaw standardized testing
+- Managed budgets for curriculum and activities
+
+### Middle and Upper School Teacher
+
+Trinity Christian School
+
+Fairfax, VA
+
+Aug. 1997 - June 2014
+
+- Taught students in grades 6 – 12. Math 7, Pre-Algebra, Algebra 1, Algebra 1 Accelerated, Geometry, Statistics, Logic, Life Science, Earth Science
+- Developed, implemented, and analyzed math, science, and logic curriculum
+- Created scope and sequence for K – 12 mathematics curriculum
+- Served and led textbook adoption committees for mathematics and science
+
+
+### Mathematics Department Chair
+
+Walt Whitman Middle School
+
+Alexandria, VA
+
+Aug. 1993 - June 1997
+
+- Provided communication conduit between school and county
+- Guided and led instruction of mathematics faculty at school level
+
+### Middle School Mathematics Teacher
+
+Walt Whitman Middle School
+
+Alexandria, VA
+
+Aug. 1991 - June 1997
+
+- Taught students in grades 7 and 8. Math 7, Pre-Algebra, Algebra 1 Honors, and Geometry
+- Team member that developed and wrote middle school math curriculum for Fairfax County Public Schools
+- Taught students who qualified for LD, ESL, and ED services in mainstreamed classroom
+- Served on school accreditation team
+- Trained as a Peer Evaluator for Fairfax County Public Schools
+
+### K - 8 Teacher
+
+Corpus Christi School
+
+Arlington, VA
+
+Aug. 1990 - June 1991
+
+- Taught K - 8 Technology, 6th Grade Reading, 7th Grade English
+- Wrote, implemented, taught, and assessed technology curriculum
+
+### Teacher's Assistant
+
+Bryant Alternative School
+
+Alexandria, VA
+
+Aug. 1989 - June 1990
+
+- Taught individual students in grades 7 and 8 mathematics
+
+Authorship {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Teacher Verbal Ability and Student Outcomes
+
+Alexander, K. & Geisinger, K. F.
+
+2019
+
+Manuscript for Center for Accreditation of Educator Programs
+
+### The changing landscape of healthcare policy: Implications across groups of older Americans
+
+Chen, D., Dizona, P., Alexander, K., Kerby, H., & Madison, K.
+
+2019, May
+
+Poster presentation for The Society for Prevention Research 27th Annual Meeting, San Francisco, CA
+
+
