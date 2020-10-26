@@ -19,10 +19,11 @@ knitr::opts_chunk$set(echo = FALSE)
 - Expected to Graduate May 2022
 
 # Favorite Animal
+body{
+  background-image: url("https://images.app.goo.gl/DJaHcV8nbgYMEdDP7");
+}
 
-<https://images.app.goo.gl/DJaHcV8nbgYMEdDP7>
-
-# Favorite Plot
+# Favorite Plot)
 ```{r, echo=FALSE, warning = FALSE, message = FALSE}
 if (!"palmerpenguins" %in% installed.packages()) {
   remotes::install_github("allisonhorst/palmerpenguins")
