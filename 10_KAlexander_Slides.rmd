@@ -18,12 +18,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - Ph.D. Candidate in Educational Psychology, Quantitative, Qualitative, and Psychometric Methods
 - Expected to Graduate May 2022
 
-# Favorite Animal
-body{
-  background-image: url("https://images.app.goo.gl/DJaHcV8nbgYMEdDP7");
-}
+# Favorite Animal {data-background=panda.jpg data-background-size=cover}
 
-# Favorite Plot)
+<!-- From https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html#background-images -->
+
+# Favorite Plot
+
 ```{r, echo=FALSE, warning = FALSE, message = FALSE}
 if (!"palmerpenguins" %in% installed.packages()) {
   remotes::install_github("allisonhorst/palmerpenguins")
@@ -36,7 +36,5 @@ ggplot(penguins, aes(x = body_mass_g, y = bill_length_mm, color = species)) +
   ggtitle("Penguins Play the Violin")
 ```
 
-# My CV
-
-<https://github.com/stat850-unl/10-presentation-karenaresearcher/commit/e4b85ec366896c36f99cd06c25ee5c9706bcfe6c>
+# [My CV](10KAlexanderCV.html)
 
